@@ -1,2 +1,2 @@
 # Python-Projects
-This section is forthcoming. 
+The documents that I have imputted into this folder as of 05 Feb 2020 are from the work I did at Coding Dojo. I will be sure to continually update this folder seeing as Python and C# are my favorite languages. :^) 
